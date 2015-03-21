@@ -1,0 +1,1 @@
+alias acommit="git add -A :/ && git commit -a"
